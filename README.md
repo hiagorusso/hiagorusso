@@ -1,6 +1,9 @@
 # Olá! Eu sou o Hiago Russo
+Apaixonado por tecnologia desde cedo, buscando todos os dias aprender algo novo e sempre seguindo o #NeverStopLearning.
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiagorusso&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiagorusso&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="hiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
